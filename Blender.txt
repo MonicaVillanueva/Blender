@@ -1,0 +1,10 @@
+Blender
+
+Deselect (select menu) "A"
+Protrude pushing "E"
+
+Select edges with right click (you can use shift)
+Make Edge/Face (This is used to create supports)
+
+Scale to make face pointy
+
