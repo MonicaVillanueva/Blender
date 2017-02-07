@@ -8,3 +8,21 @@ Make Edge/Face (This is used to create supports)
 
 Scale to make face pointy
 
+_______________________
+
+MENUs
+
+Right side: n
+Left side: t
+
+Snap: shift + s
+Mesh: shift + a
+Remove doubles: w
+
+_______________________
+
+SHORTCUTs
+
+Box (selection): b
+Cat (selection): c
+
