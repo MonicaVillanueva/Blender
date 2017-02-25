@@ -18,6 +18,7 @@ Left side: t
 Snap: shift + s
 Mesh: shift + a
 Remove doubles: w
+Merge: w
 
 _______________________
 
@@ -25,4 +26,9 @@ SHORTCUTs
 
 Box (selection): b
 Cat (selection): c
+Point creation: cntrl + click
+Loop cuts: cntrl + R
+Duplicate: cntrl + D
+
+Move to another layer: m + layer(number)
 
